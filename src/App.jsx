@@ -1,5 +1,5 @@
 import Hero from "./pages/Hero";
-import Navbar from "./pages/navbar";
+import Navbar from "./pages/Navbar";
 
 function App() {
   return (
